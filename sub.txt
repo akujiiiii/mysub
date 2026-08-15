@@ -1,3 +1,4 @@
+wg://162.159.195.1:500?publicKey=bmXOC%2BF1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo%3D&privateKey=GDJEerpwO44PxoqqiGP3%2B%2B3%2BywVwXZ4l%2B1whireRj28%3D&ip=172.16.0.2,2606:4700:110:8982:338f:7933:69fe:67d0&mtu=1280&dns=1.1.1.1,%201.0.0.1,%202606:4700:4700::1111,%202606:4700:4700::1001&udp=1&flag=CDN
 vless://a37150c3-d1e8-4435-ad4c-1cc832d96ce0@161.33.147.125:15267?sni=www.cloudflare.com&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision&security=reality&headerType=none&pbk=_iaFALjzzrZqckqMX6i7jc52xb_EoIESUrMGkbOrgAk&fp=chrome&encryption=none#hehehaha
 ssh://dGVjaDR1OnRlY2g0dQ%3D%3D@172.238.14.158:22#JP
 ssh://eW9vbjFfeXk6MjgxOTg0VGhhbmh0aWtl@185.31.41.85:22#FRANCE
