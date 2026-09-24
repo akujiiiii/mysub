@@ -1,4 +1,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuN3FwNmxlMGx3bTZ5aGJv@134.209.101.52:37565?type=tcp#Ss-Channel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsdnY0djU0NnVxdng5MXNv@134.209.101.52:43896?type=tcp#qq5n73dccftech4u
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZXBwM285bmc4ZWo1OXV2@45.128.12.20:14249?type=tcp#SG%F0%9F%87%B8%F0%9F%87%AC
-vless://90f6a981-5b5f-48a2-929b-073b4560f36f@152.42.168.111:80?type=ws&encryption=none&path=%2FkpaTvoK1%2F&host=portal-as.ruijienetworks.com&security=none#STARLINK-VIP%20USERS
